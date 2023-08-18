@@ -1,0 +1,33 @@
+.a{
+	height: 200px;
+	width: 200px;
+	background-color: greenyellow;
+	float: left;
+	position: static;
+}
+.b{
+	height: 200px;
+	width: 200px;
+	background-color: gray;
+	float: left;
+	position: relative;
+}
+.c{
+	height: 200px;
+	width: 200px;
+	background-color: lightblue;
+	
+	
+}
+.d{
+	height: 200px;
+	width: 200px;
+	background-color: forestgreen;
+	float: left;
+}
+.c1{
+     height: 600px;
+     weight: 600px;
+     float:left ;
+     border: 5px solid green;
+}

@@ -1,0 +1,10 @@
+div{
+	height: 100px;
+	width: 100px;
+	background-color: greenyellow;
+	box-shadow: 5px 5px 3px dimgrey;
+	padding: 30px;
+	margin: 30px;
+   border: ;
+	outline: 5px;
+}

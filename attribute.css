@@ -1,0 +1,18 @@
+input[type]{
+	color: yellow;
+}
+input[type="text"]{
+	color: green;
+}
+input[type="number"]{
+	color: blue;
+}
+input[type="checkbox"]{
+	color: goldenrod;
+}
+
+a[href]{
+	color: red;
+	background-color: yellow;
+
+}
